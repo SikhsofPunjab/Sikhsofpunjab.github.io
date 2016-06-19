@@ -1,0 +1,90 @@
+#ext_menu-5 .mbr-brand__name {
+  font-size: 16px;
+}
+#ext_menu-5.mbr-navbar--stuck .mbr-navbar__section {
+  background: #000000;
+}
+#ext_menu-5 .mbr-navbar__hamburger {
+  color: #28324e;
+}
+#ext_menu-5 .mbr-brand__name a {
+  font-size: 24px;
+}
+#ext_menu-5 .mbr-navbar__items a {
+  font-size: 10px;
+}
+#header4-2 P {
+  font-size: 23px;
+}
+#header4-2 H1 {
+  font-size: 48px;
+}
+#content5-18 .mbr-header .mbr-header__text {
+  text-align: center;
+  color: #252525;
+}
+#content5-18 .mbr-header .mbr-header__subtext {
+  text-align: center;
+  color: #fff;
+}
+#content5-18 .mbr-article {
+  color: #fff;
+}
+#content5-18 .mbr-article P {
+  color: #252525;
+  font-size: 17px;
+}
+#content5-19 .mbr-header .mbr-header__text {
+  text-align: center;
+  color: #252525;
+  font-size: 30px;
+}
+#content5-19 .mbr-header .mbr-header__subtext {
+  text-align: center;
+  color: #fff;
+}
+#content5-19 .mbr-article {
+  color: #fff;
+}
+#content5-19 .mbr-article P {
+  color: #252525;
+}
+#features1-12 P {
+  color: #000000;
+}
+#features1-12 .mbr-section__col .mbr-header__text {
+  font-size: 21px;
+}
+#content5-22 .mbr-header .mbr-header__text {
+  text-align: center;
+  color: #000000;
+}
+#content5-22 .mbr-header .mbr-header__subtext {
+  text-align: center;
+  color: #fff;
+}
+#content5-22 .mbr-article {
+  color: #fff;
+}
+#content5-22 .mbr-article P {
+  color: #000000;
+}
+#features1-21 P {
+  color: #252525;
+  text-align: left;
+}
+#social-buttons2-13 .mbr-header__text {
+  text-align: center;
+}
+#form2-8 .mbr-header__text {
+  text-align: center;
+}
+#contacts2-11 B {
+  color: #efefef;
+}
+#contacts2-11 P {
+  color: #9c9c9c;
+}
+#contacts2-11 UL {
+  color: #eb6b56;
+}
