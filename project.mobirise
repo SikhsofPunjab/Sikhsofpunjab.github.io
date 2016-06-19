@@ -10,7 +10,7 @@
     },
     "favicon": "",
     "publishType": "local",
-    "publishPath": "file:///Users/singh/Downloads/data",
+    "publishPath": "file:///Users/singh/Github/Sikhsofpunjab.github.io",
     "publishGDriveLocation": "",
     "publishGDrivePath": ""
   },
@@ -93,7 +93,9 @@
             "bgColor": "#4c6972",
             "bgColorRadio": false,
             "bgVideo": {
-              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+              "width": 1280,
+              "height": 720,
+              "url": "https://www.youtube.com/embed/4mahxnixEe8?rel=0&autoplay=0&loop=0"
             },
             "bgVideoRadio": true,
             "contentAlign": "center",
