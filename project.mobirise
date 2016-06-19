@@ -181,7 +181,7 @@
                 "caption": "VP - Membership<br>Tee-Ga",
                 "thumb": "@PROJECT_PATH@/assets/images/jay-480x480-73-480x480-55.jpg",
                 "image": "@PROJECT_PATH@/assets/images/jay-480x480-73.jpg",
-                "active": true
+                "active": false
               },
               {
                 "caption": "VP-Public Relations<br>Pawandeep Singh",
@@ -191,8 +191,8 @@
               },
               {
                 "caption": "Secretary<br>Janine White",
-                "thumb": "@PROJECT_PATH@/assets/images/cathe-532x720-23-532x720-96.jpg",
-                "image": "@PROJECT_PATH@/assets/images/cathe-532x720-23.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-4704-299x450-17-299x450-69.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img-4704-299x450-17.jpg",
                 "active": false
               },
               {
@@ -211,11 +211,11 @@
                 "caption": "Type caption here",
                 "thumb": "@PROJECT_PATH@/assets/images/moments-752fba32-c8fa-42ab-9166-663e77426a6c-hi-res-1224x1632-31-1224x1632-17.jpg",
                 "image": "@PROJECT_PATH@/assets/images/moments-752fba32-c8fa-42ab-9166-663e77426a6c-hi-res-1224x1632-31.jpg",
-                "active": false
+                "active": true
               }
             ],
             "showText": true,
-            "bgColor": "#4c6972",
+            "bgColor": "#7ac673",
             "fullWidth": false,
             "noGutter": true
           },
