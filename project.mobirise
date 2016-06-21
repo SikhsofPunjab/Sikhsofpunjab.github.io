@@ -107,7 +107,7 @@
             "showButtons": false,
             "showArrow": true
           },
-          "title": "",
+          "title": "EAST SIDE TOASTMASTERS",
           "text": "<b>Join Us !</b>",
           "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger animated fadeInUp delay\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">FOR WINDOWS</a> "
         },
@@ -523,7 +523,7 @@
             }
           },
           "title3": "STEP 3",
-          "caption3": "Pay the new member application fee.<br>Voila! Welcome to the club.",
+          "caption3": "Pay the new member application fee.<br>Voila! Welcome to the club.<br>",
           "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
           "media4": {
             "image": {
