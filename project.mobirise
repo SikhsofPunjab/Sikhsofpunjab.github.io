@@ -79,7 +79,7 @@
           "_name": "header4",
           "_styles": {
             "P": {
-              "font-size": "23px"
+              "font-size": "36px"
             },
             "H1": {
               "font-size": "48px"
@@ -107,8 +107,8 @@
             "showButtons": false,
             "showArrow": true
           },
-          "title": "EAST SIDE TOASTMASTERS",
-          "text": "Join Us !",
+          "title": "",
+          "text": "<b>Join Us !</b>",
           "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger animated fadeInUp delay\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">FOR WINDOWS</a> "
         },
         {
@@ -193,7 +193,7 @@
                 "caption": "Secretary<br>Janine White",
                 "thumb": "@PROJECT_PATH@/assets/images/img-4704-299x450-17-299x450-69.jpg",
                 "image": "@PROJECT_PATH@/assets/images/img-4704-299x450-17.jpg",
-                "active": false
+                "active": true
               },
               {
                 "caption": "Treasurer<br>Jill Talmer<br>",
@@ -211,7 +211,7 @@
                 "caption": "Type caption here",
                 "thumb": "@PROJECT_PATH@/assets/images/moments-752fba32-c8fa-42ab-9166-663e77426a6c-hi-res-1224x1632-31-1224x1632-17.jpg",
                 "image": "@PROJECT_PATH@/assets/images/moments-752fba32-c8fa-42ab-9166-663e77426a6c-hi-res-1224x1632-31.jpg",
-                "active": true
+                "active": false
               }
             ],
             "showText": true,
@@ -272,6 +272,14 @@
         },
         {
           "_name": "features1",
+          "_styles": {
+            "P": {
+              "color": "#000000"
+            },
+            ".mbr-section__col .mbr-header__text": {
+              "font-size": "21px"
+            }
+          },
           "_anchor": "features1-12",
           "_params": {
             "paddingTop": "1",
@@ -388,15 +396,7 @@
           },
           "title6": "HOST ANYWHERE",
           "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
-          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
-          "_styles": {
-            "P": {
-              "color": "#000000"
-            },
-            ".mbr-section__col .mbr-header__text": {
-              "font-size": "21px"
-            }
-          }
+          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>"
         },
         {
           "_inherit": "msg-box3",
@@ -455,7 +455,7 @@
           },
           "_anchor": "features1-21",
           "_params": {
-            "paddingTop": "1",
+            "paddingTop": "3",
             "paddingBottom": "4",
             "bgImageRadio": false,
             "parallax": true,
@@ -471,7 +471,7 @@
             "overlayColor": "#222",
             "showHeader": false,
             "showSubheader": false,
-            "columns": 4,
+            "columns": "3",
             "showImages": false,
             "showTitles": true,
             "showCaptions": true,
@@ -508,7 +508,7 @@
             }
           },
           "title2": "STEP 2",
-          "caption2": "Fill the new member application &nbsp;&nbsp;<a href=\"https://www.toastmasters.org/~/media/5A31F535E9714C9CB50DA2579CD2C526.ashx\" class=\"text-black\">form</a>&nbsp;and give to our &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;VP-Membership.",
+          "caption2": "Fill the new member application <a href=\"https://www.toastmasters.org/~/media/5A31F535E9714C9CB50DA2579CD2C526.ashx\" class=\"text-black\">form</a>&nbsp;and give to our VP-Membership.",
           "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
           "media3": {
             "image": {
@@ -523,7 +523,7 @@
             }
           },
           "title3": "STEP 3",
-          "caption3": "Pay the new member dues, $61. Regular members pay $41.",
+          "caption3": "Pay the new member application fee.<br>Voila! Welcome to the club.",
           "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
           "media4": {
             "image": {
